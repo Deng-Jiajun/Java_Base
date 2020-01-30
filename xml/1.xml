@@ -1,0 +1,10 @@
+<com.startdima.test.chapter2.file.serialize.Person>
+  <age>0</age>
+  <name>姓名0</name>
+  <sex>性别0</sex>
+</com.startdima.test.chapter2.file.serialize.Person>
+<com.startdima.test.chapter2.file.serialize.Person>
+  <age>6</age>
+  <name>姓名6</name>
+  <sex>性别6</sex>
+</com.startdima.test.chapter2.file.serialize.Person>
